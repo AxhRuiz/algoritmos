@@ -1,0 +1,18 @@
+pokemons_data= [
+    {"nombre": "Bulbasaur", "numero": 1, "tipos": ["planta", "veneno"], "debilidades": ["fuego", "psiquico", "volador", "hielo"], "megaevolucion": False, "gigamax": False},
+    {"nombre": "Charmander", "numero": 4, "tipos": ["fuego"], "debilidades": ["agua", "tierra", "roca"], "megaevolucion": False, "gigamax": False},
+    {"nombre": "Charizard", "numero": 6, "tipos": ["fuego", "volador"], "debilidades": ["agua", "electrico", "roca"], "megaevolucion": True, "gigamax": True},
+    {"nombre": "Squirtle", "numero": 7, "tipos": ["agua"], "debilidades": ["planta", "electrico"], "megaevolucion": False, "gigamax": False},
+    {"nombre": "Pikachu", "numero": 25, "tipos": ["electrico"], "debilidades": ["tierra"], "megaevolucion": False, "gigamax": True},
+    {"nombre": "Gengar", "numero": 94, "tipos": ["fantasma", "veneno"], "debilidades": ["psiquico", "tierra"], "megaevolucion": True, "gigamax": True},
+    {"nombre": "Gastly", "numero": 92, "tipos": ["fantasma", "veneno"], "debilidades": ["psiquico", "tierra"], "megaevolucion": False, "gigamax": False},
+    {"nombre": "Haunter", "numero": 93, "tipos": ["fantasma", "veneno"], "debilidades": ["psiquico", "tierra"], "megaevolucion": False, "gigamax": False},
+    {"nombre": "Lucario", "numero": 448, "tipos": ["lucha", "acero"], "debilidades": ["fuego", "lucha", "tierra"], "megaevolucion": True, "gigamax": False},
+    {"nombre": "Steelix", "numero": 208, "tipos": ["acero", "tierra"], "debilidades": ["fuego", "agua", "lucha", "tierra"], "megaevolucion": True, "gigamax": False},
+    {"nombre": "Magnezone", "numero": 462, "tipos": ["electrico", "acero"], "debilidades": ["fuego", "lucha", "tierra"], "megaevolucion": False, "gigamax": False},
+    {"nombre": "Jolteon", "numero": 135, "tipos": ["electrico"], "debilidades": ["tierra"], "megaevolucion": False, "gigamax": False},
+    {"nombre": "Lycanroc", "numero": 745, "tipos": ["roca"], "debilidades": ["agua", "planta", "lucha", "tierra", "acero"], "megaevolucion": False, "gigamax": False},
+    {"nombre": "Tyrantrum", "numero": 697, "tipos": ["roca", "dragon"], "debilidades": ["lucha", "tierra", "acero", "hielo", "dragon", "hada"], "megaevolucion": False, "gigamax": False},
+    {"nombre": "Butterfree", "numero": 12, "tipos": ["bicho", "volador"], "debilidades": ["fuego", "volador", "electrico", "hielo", "roca"], "megaevolucion": False, "gigamax": True},
+    {"nombre": "Blastoise", "numero": 9, "tipos": ["agua"], "debilidades": ["planta", "electrico"], "megaevolucion": True, "gigamax": True},
+]
